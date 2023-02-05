@@ -1,0 +1,3 @@
+"""
+Insert link vk app
+"""
